@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Exit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HR-Anywhere-Home-Page" transform="translate(-310.000000, -602.000000)">
+            <g id="Exit" transform="translate(310.000000, 602.000000)">
+                <circle id="Oval" fill="#929292" cx="25" cy="25" r="25"></circle>
+                <path d="M33.55,16.45 C32.95,15.85 32.05,15.85 31.45,16.45 L25,22.9 L18.55,16.45 C17.95,15.85 17.05,15.85 16.45,16.45 C15.85,17.05 15.85,17.95 16.45,18.55 L22.9,25 L16.45,31.45 C15.85,32.05 15.85,32.95 16.45,33.55 C16.75,33.85 17.2,34 17.5,34 C17.8,34 18.25,33.85 18.55,33.55 L25,27.1 L31.45,33.55 C31.75,33.85 32.2,34 32.5,34 C32.8,34 33.25,33.85 33.55,33.55 C34.15,32.95 34.15,32.05 33.55,31.45 L27.1,25 L33.55,18.55 C34.15,17.95 34.15,17.05 33.55,16.45 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
